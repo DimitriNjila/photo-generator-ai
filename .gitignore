@@ -2,3 +2,4 @@ node_modules
 all-text.md
 package-lock.json
 supabase-queries.md
+.next
